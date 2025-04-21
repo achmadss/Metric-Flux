@@ -9,7 +9,6 @@ MetricFlux is an Android application designed to provide users with insights int
 -   **App Usage Tracking:** Monitors how frequently and for how long users interact with different apps on their device.
 -   **Network Data Consumption:** Tracks the amount of network data used by each app, helping users manage their data usage.
 -   **Detailed Usage Statistics:** Presents comprehensive statistics, including daily, weekly and monthly usage summaries.
--   
 
 ## Tech Stack
 
