@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Metric Flux</string>
+
+    <string name="onboarding_title">Metric Flux</string>
+    <string name="onboarding_subtitle">Monitor your data usage</string>
+    <string name="onboarding_description">To show your network statistics, this app needs permissions to access your mobile network and phone’s data usage. This allows us to display how much data you\'ve used and which apps are consuming it—helping you stay in control of your usage.</string>
+    <string name="onboarding_note">* Your data stays private and never leaves your device</string>
+    <string name="onboarding_button_grant">GRANT</string>
+    <string name="onboarding_button_next">NEXT</string>
+    <string name="onboarding_label_required">Required</string>
+    <string name="onboarding_label_optional">Optional</string>
+    <string name="onboarding_permission_access_data_usage">Access to Data Usage</string>
+    <string name="onboarding_permission_mobile_network">Mobile Network Permission</string>
+    <string name="onboarding_permission_notification">Notification Permission</string>
+
+</resources>
