@@ -21,7 +21,7 @@ MetricFlux is an Android application designed to provide users with insights int
 
 1. Clone the repository: 
    ```bash 
-   git clone [repository-url]
+   git clone https://github.com/achmadss/Metric-Flux.git
    ```
 2. Open the project in Android Studio.
 3. Build and run the project on an Android emulator or device.
