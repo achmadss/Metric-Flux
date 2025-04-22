@@ -12,9 +12,9 @@ MetricFlux is an Android application designed to provide users with insights int
 
 ## Tech Stack
 
--   **Jetpack Compose:** Native UI library
--   **Voyager:** Navigation library from https://voyager.adriel.cafe/
--   **Koin:** Dependency Injection
+-   **Jetpack Compose** native Android UI library
+-   **Voyager** navigation library from https://voyager.adriel.cafe/
+-   **Koin** dependency injection
 
 
 ## Development
